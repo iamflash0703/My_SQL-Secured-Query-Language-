@@ -66,7 +66,7 @@ JOIN employee_salary emp2
 	ON emp1.employee_id = emp2.employee_id
     ;
 
--- now let's change it to give them their secret santa
+-- now let's change it to give them their secret sants
 SELECT *
 FROM employee_salary emp1
 JOIN employee_salary emp2
