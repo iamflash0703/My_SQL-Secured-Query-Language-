@@ -31,35 +31,3 @@ FROM employee_demographics
 GROUP BY gender
 HAVING AVG_age > 40
 ;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
